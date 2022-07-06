@@ -9,4 +9,4 @@
 
 
 ### About Me
-- [My blog](https://nicexl.eu.org)
+- [My Blog](https://nicexl.eu.org)
