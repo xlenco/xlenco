@@ -6,3 +6,7 @@
 
 ### My Github Contribution
 ![](https://raw.githubusercontent.com/xlenco/xlenco/main/assets/github-contribution-grid-snake.svg)
+
+
+### About Me
+- [My blog](https://nicexl.eu.org)
