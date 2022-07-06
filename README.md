@@ -5,7 +5,7 @@
 
 
 ### My Github Contribution
-![](https://raw.githubusercontent.com/xlenco/xlenco/main/assets/github-contribution-grid-snake.svg)
+![](https://cdn.jsdelivr.net/gh/xlenco/xlenco@main/assets/github-contribution-grid-snake.svg)
 
 
 ### About Me
