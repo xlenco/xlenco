@@ -8,15 +8,6 @@
 
 
 
-
-
-
-
-### Github Stats
-![](https://github-readme-stats.vercel.app/api?username=xlenco&show_icons=true)
-
-
-
 ### About Me
 - [My Blog](https://xlenco.eu.org)
 
