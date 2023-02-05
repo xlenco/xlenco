@@ -9,6 +9,6 @@
 
 
 ### About Me
-- [My Blog](https://xlenco.eu.org)
+- [My Pages](https://xlenco.top)
 
 
