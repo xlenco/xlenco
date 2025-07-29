@@ -1,9 +1,7 @@
 ### Hi  👋,I'm Xlenco!
 
 
-**About Me:** <img style="margin-left:6px" src="https://visitor-badge.laobi.icu/badge?page_id=uxiaohan.uxiaohan&right_color=green" align="center" alt="visitors">
-
-<img src="https://raw.githubusercontent.com/uxiaohan/uxiaohan/main/code-boy.webp" width="260" align="right" alt="Code Boy">
+**About Me:** 
 
 |   主&emsp;页   | <https://www.xlenco.top>                                      |
 | :------------: | :------------------------------------------------------- |
