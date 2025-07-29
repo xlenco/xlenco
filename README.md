@@ -10,16 +10,16 @@
 ## 博客
 
 <!--START_SECTION:feed-->
-* [在 Docker 沙箱中运行 MCP Server](https:&#x2F;&#x2F;miantiao.me&#x2F;posts&#x2F;guide-to-running-mcp-server-in-a-sandbox&#x2F;)
-* [使用 Cloudflare Workers 合并音频文件](https:&#x2F;&#x2F;miantiao.me&#x2F;posts&#x2F;cloudflare-audio-concat&#x2F;)
-* [使用 AI 让博客排版更上一个台阶](https:&#x2F;&#x2F;miantiao.me&#x2F;posts&#x2F;ai-blog-typography&#x2F;)
-* [用播客的方式听 Hacker News](https:&#x2F;&#x2F;miantiao.me&#x2F;posts&#x2F;hacker-news-podcast&#x2F;)
-* [RSS.Beauty - 让 RSS 变漂亮!](https:&#x2F;&#x2F;miantiao.me&#x2F;posts&#x2F;rss-beauty&#x2F;)
-* [在浏览器中轻松运行 Python 程序](https:&#x2F;&#x2F;miantiao.me&#x2F;posts&#x2F;run-python-in-browser&#x2F;)
-* [使用 Cloudflare Snippets 搭建一个不限流量的 Docker 镜像](https:&#x2F;&#x2F;miantiao.me&#x2F;posts&#x2F;cloudflare-docker-mirror&#x2F;)
-* [Cloudflare PyPI Mirror](https:&#x2F;&#x2F;miantiao.me&#x2F;posts&#x2F;cloudflare-pypi-mirror&#x2F;)
-* [Vite SSR 项目 Docker 镜像最小化打包方案](https:&#x2F;&#x2F;miantiao.me&#x2F;posts&#x2F;vite-ssr-docker-image-minimal-build&#x2F;)
-* [BroadcastChannel - 将你的 Telegram Channel 转为微博客](https:&#x2F;&#x2F;miantiao.me&#x2F;posts&#x2F;broadcast-channel&#x2F;)
+* [常用前端公共CDN](https:&#x2F;&#x2F;blog.xlenco.top&#x2F;2023&#x2F;public-cdn)
+* [Git Commit 规范](https:&#x2F;&#x2F;blog.xlenco.top&#x2F;2025&#x2F;git-commit)
+* [Git 常用命令](https:&#x2F;&#x2F;blog.xlenco.top&#x2F;2025&#x2F;git-common-commands)
+* [解决 Notion 访问慢的方法](https:&#x2F;&#x2F;blog.xlenco.top&#x2F;2025&#x2F;to-solve-slow-notion-access)
+* [解决Git分支冲突](https:&#x2F;&#x2F;blog.xlenco.top&#x2F;2025&#x2F;resolve-git-branch-conflicts)
+* [双拼语法介绍以及选择](https:&#x2F;&#x2F;blog.xlenco.top&#x2F;2022&#x2F;introduction-to-shuangpin)
+* [公共DNS服务推荐](https:&#x2F;&#x2F;blog.xlenco.top&#x2F;2024&#x2F;public-dns-recommendations)
+* [流程图介绍以及使用](https:&#x2F;&#x2F;blog.xlenco.top&#x2F;2024&#x2F;flow-chart)
+* [无需Root玩机工具Shizuku](https:&#x2F;&#x2F;blog.xlenco.top&#x2F;2024&#x2F;no-root-shizuku)
+* [最好用的包管理器pnpm](https:&#x2F;&#x2F;blog.xlenco.top&#x2F;2024&#x2F;the-best-package-manager-pnpm)
 <!--END_SECTION:feed-->
 
 **Languages:**
