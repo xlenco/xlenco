@@ -10,16 +10,16 @@
 ## 博客
 
 <!--START_SECTION:feed-->
-* [公共DNS服务推荐](https:&#x2F;&#x2F;blog.xlenco.top&#x2F;2024&#x2F;public-dns-recommendations)
 * [常用前端公共CDN](https:&#x2F;&#x2F;blog.xlenco.top&#x2F;2023&#x2F;public-cdn)
+* [双拼语法介绍以及选择](https:&#x2F;&#x2F;blog.xlenco.top&#x2F;2022&#x2F;introduction-to-shuangpin)
+* [公共DNS服务推荐](https:&#x2F;&#x2F;blog.xlenco.top&#x2F;2024&#x2F;public-dns-recommendations)
 * [Git Commit 规范](https:&#x2F;&#x2F;blog.xlenco.top&#x2F;2025&#x2F;git-commit)
 * [Git 常用命令](https:&#x2F;&#x2F;blog.xlenco.top&#x2F;2025&#x2F;git-common-commands)
 * [解决 Notion 访问慢的方法](https:&#x2F;&#x2F;blog.xlenco.top&#x2F;2025&#x2F;to-solve-slow-notion-access)
 * [解决Git分支冲突](https:&#x2F;&#x2F;blog.xlenco.top&#x2F;2025&#x2F;resolve-git-branch-conflicts)
-* [双拼语法介绍以及选择](https:&#x2F;&#x2F;blog.xlenco.top&#x2F;2022&#x2F;introduction-to-shuangpin)
+* [语雀富文本写作自动部署到 Hexo](https:&#x2F;&#x2F;blog.xlenco.top&#x2F;2024&#x2F;yuque-deploys-to-hexo)
 * [流程图介绍以及使用](https:&#x2F;&#x2F;blog.xlenco.top&#x2F;2024&#x2F;flow-chart)
 * [无需Root玩机工具Shizuku](https:&#x2F;&#x2F;blog.xlenco.top&#x2F;2024&#x2F;no-root-shizuku)
-* [最好用的包管理器pnpm](https:&#x2F;&#x2F;blog.xlenco.top&#x2F;2024&#x2F;the-best-package-manager-pnpm)
 <!--END_SECTION:feed-->
 
 **Languages:**
