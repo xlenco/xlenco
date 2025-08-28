@@ -10,16 +10,16 @@
 ## 博客
 
 <!--START_SECTION:feed-->
-* [加速访问 Github 的一些方式](https:&#x2F;&#x2F;blog.xlenco.top&#x2F;2025&#x2F;accelerate-github-access)
 * [常用前端公共CDN](https:&#x2F;&#x2F;blog.xlenco.top&#x2F;2023&#x2F;public-cdn)
 * [双拼语法介绍以及选择](https:&#x2F;&#x2F;blog.xlenco.top&#x2F;2022&#x2F;introduction-to-shuangpin)
+* [Windows 文件管理器显示webp等格式略缩图的方式](https:&#x2F;&#x2F;blog.xlenco.top&#x2F;2025&#x2F;file-manager-thumbnails)
+* [加速访问 Github 的一些方式](https:&#x2F;&#x2F;blog.xlenco.top&#x2F;2025&#x2F;accelerate-github-access)
 * [公共DNS服务推荐](https:&#x2F;&#x2F;blog.xlenco.top&#x2F;2024&#x2F;public-dns-recommendations)
 * [Git Commit 规范](https:&#x2F;&#x2F;blog.xlenco.top&#x2F;2025&#x2F;git-commit)
 * [Git 常用命令](https:&#x2F;&#x2F;blog.xlenco.top&#x2F;2025&#x2F;git-common-commands)
 * [解决 Notion 访问慢的方法](https:&#x2F;&#x2F;blog.xlenco.top&#x2F;2025&#x2F;to-solve-slow-notion-access)
 * [解决Git分支冲突](https:&#x2F;&#x2F;blog.xlenco.top&#x2F;2025&#x2F;resolve-git-branch-conflicts)
 * [语雀富文本写作自动部署到 Hexo](https:&#x2F;&#x2F;blog.xlenco.top&#x2F;2024&#x2F;yuque-deploys-to-hexo)
-* [流程图介绍以及使用](https:&#x2F;&#x2F;blog.xlenco.top&#x2F;2024&#x2F;flow-chart)
 <!--END_SECTION:feed-->
 
 **Languages:**
