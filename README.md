@@ -15,11 +15,11 @@
 * [Scoop：Windows 应用包安装管理完美解决方案](https:&#x2F;&#x2F;blog.xlenco.top&#x2F;posts&#x2F;2a8c)
 * [Windows 文件管理器显示webp等格式略缩图的方式](https:&#x2F;&#x2F;blog.xlenco.top&#x2F;posts&#x2F;6a97)
 * [加速访问 Github 的一些方式](https:&#x2F;&#x2F;blog.xlenco.top&#x2F;posts&#x2F;f46d)
-* [公共DNS服务推荐](https:&#x2F;&#x2F;blog.xlenco.top&#x2F;posts&#x2F;f86b)
 * [Git Commit 规范](https:&#x2F;&#x2F;blog.xlenco.top&#x2F;posts&#x2F;4304)
 * [Git 常用命令](https:&#x2F;&#x2F;blog.xlenco.top&#x2F;posts&#x2F;1d45)
 * [解决 Notion 访问慢的方法](https:&#x2F;&#x2F;blog.xlenco.top&#x2F;posts&#x2F;d762)
 * [解决Git分支冲突](https:&#x2F;&#x2F;blog.xlenco.top&#x2F;posts&#x2F;eceb)
+* [语雀富文本写作自动部署到 Hexo](https:&#x2F;&#x2F;blog.xlenco.top&#x2F;posts&#x2F;ecd7)
 <!--END_SECTION:feed-->
 
 **Languages:**
