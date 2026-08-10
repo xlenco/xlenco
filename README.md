@@ -10,6 +10,7 @@
 ## 博客
 
 <!--START_SECTION:feed-->
+* [最近购买的一些数码产品](https:&#x2F;&#x2F;blog.xlenco.top&#x2F;posts&#x2F;b943)
 * [常用前端公共CDN](https:&#x2F;&#x2F;blog.xlenco.top&#x2F;posts&#x2F;4c87)
 * [双拼语法介绍以及选择](https:&#x2F;&#x2F;blog.xlenco.top&#x2F;posts&#x2F;28b4)
 * [Scoop：Windows 应用包安装管理完美解决方案](https:&#x2F;&#x2F;blog.xlenco.top&#x2F;posts&#x2F;2a8c)
@@ -19,7 +20,6 @@
 * [Git 常用命令](https:&#x2F;&#x2F;blog.xlenco.top&#x2F;posts&#x2F;1d45)
 * [解决 Notion 访问慢的方法](https:&#x2F;&#x2F;blog.xlenco.top&#x2F;posts&#x2F;d762)
 * [解决Git分支冲突](https:&#x2F;&#x2F;blog.xlenco.top&#x2F;posts&#x2F;eceb)
-* [语雀富文本写作自动部署到 Hexo](https:&#x2F;&#x2F;blog.xlenco.top&#x2F;posts&#x2F;ecd7)
 <!--END_SECTION:feed-->
 
 **Languages:**
